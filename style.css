@@ -1,0 +1,25 @@
+th{
+	font-family:"Georgia", sans-serif ;
+	background-color: #FFC300;
+	text-decoration:;
+}
+pre{
+	font-family: unset;
+	font-size: 100%;
+}
+tr{
+	background-color: #FEDEDE;
+
+};
+#luis1{
+	background-color: black;
+	}
+
+address,#luis3{
+
+	 text-align: right;
+	 font-weight: bold;
+}
+.uno{
+	background-color: #9DBCFD;
+}
